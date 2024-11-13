@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Kate",
+  "greetingText": "Your name is really cool, and it's funny how it rhymes with mine.",
+  "wishText": "I have a feeling we could click. Wanna grab coffee? ;)",
+  "imagePath": "img/Rui2.png",
+  "text1": "I know you're still healing and I don't want to pressure you but...",
+  "textInChatBox": "I like you and want to know you better blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "There's something special about you",
+  "outroText": "Okay, now come back and tell me if you love it.",
+  "replayText": "or click here",
+  "outroSmiley": ":)"
+}
